@@ -1,5 +1,5 @@
 To use the library:
-1. import the calc_area function from the figures_shape.src.calc_area module.
+1. import the calc_area function from the shapes_area.src.calc_area module.
 2. pass to the function as arguments the name of the shape whose area will be calculated, as well as the parameters of this shape according to the description of the function.
 
 To add a new shape:
