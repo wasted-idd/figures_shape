@@ -1,0 +1,2 @@
+class NoSuchShapeException(Exception):
+    pass
