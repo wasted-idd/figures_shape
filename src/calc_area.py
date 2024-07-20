@@ -1,7 +1,7 @@
 from src.shapes import BaseShape, SHAPES
 from src.exceptions import NoSuchShapeException
 
-def eval_area(shape_name: str, **kwargs) -> float:
+def calc_area(shape_name: str, **kwargs) -> float:
     """
     Function evaluates area of the given in shape_name shape area.
     Add shapes parameters (in cm) as keyword arguments in function.
